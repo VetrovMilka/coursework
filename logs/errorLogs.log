@@ -1,0 +1,22 @@
+[ERROR] 2023-06-27 17:19:10,838 c.e.w.e.GlobalExceptionHandler [http-nio-8080-exec-4] PreparedStatementCallback; SQL [INSERT INTO SPRING_SESSION_ATTRIBUTES (SESSION_PRIMARY_ID, ATTRIBUTE_NAME, ATTRIBUTE_BYTES) VALUES (?, ?, ?)]; ERROR: duplicate key value violates unique constraint "spring_session_attributes_pk"
+  Подробности: Key (session_primary_id, attribute_name)=(ed7e361b-69e5-4d37-829e-304e3598e343, org.springframework.security.web.csrf.HttpSessionCsrfTokenRepository.CSRF_TOKEN) already exists.; nested exception is org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "spring_session_attributes_pk"
+  Подробности: Key (session_primary_id, attribute_name)=(ed7e361b-69e5-4d37-829e-304e3598e343, org.springframework.security.web.csrf.HttpSessionCsrfTokenRepository.CSRF_TOKEN) already exists.
+[ERROR] 2023-06-27 17:19:12,776 c.e.w.e.GlobalExceptionHandler [http-nio-8080-exec-4] PreparedStatementCallback; SQL [INSERT INTO SPRING_SESSION_ATTRIBUTES (SESSION_PRIMARY_ID, ATTRIBUTE_NAME, ATTRIBUTE_BYTES) VALUES (?, ?, ?)]; ERROR: duplicate key value violates unique constraint "spring_session_attributes_pk"
+  Подробности: Key (session_primary_id, attribute_name)=(39981cf3-c7c2-4469-a6f2-940ace7a19e9, org.springframework.security.web.csrf.HttpSessionCsrfTokenRepository.CSRF_TOKEN) already exists.; nested exception is org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "spring_session_attributes_pk"
+  Подробности: Key (session_primary_id, attribute_name)=(39981cf3-c7c2-4469-a6f2-940ace7a19e9, org.springframework.security.web.csrf.HttpSessionCsrfTokenRepository.CSRF_TOKEN) already exists.
+[ERROR] 2023-06-28 13:05:08,204 c.e.w.e.GlobalExceptionHandler [http-nio-8080-exec-10] PreparedStatementCallback; SQL [INSERT INTO SPRING_SESSION_ATTRIBUTES (SESSION_PRIMARY_ID, ATTRIBUTE_NAME, ATTRIBUTE_BYTES) VALUES (?, ?, ?)]; ERROR: duplicate key value violates unique constraint "spring_session_attributes_pk"
+  Подробности: Key (session_primary_id, attribute_name)=(937e78ed-c0b5-48ff-9f7e-d7832adf493f, org.springframework.security.web.csrf.HttpSessionCsrfTokenRepository.CSRF_TOKEN) already exists.; nested exception is org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "spring_session_attributes_pk"
+  Подробности: Key (session_primary_id, attribute_name)=(937e78ed-c0b5-48ff-9f7e-d7832adf493f, org.springframework.security.web.csrf.HttpSessionCsrfTokenRepository.CSRF_TOKEN) already exists.
+[ERROR] 2023-06-28 14:19:47,179 c.e.w.controller.LoginController [http-nio-8080-exec-10] Invalid username and password!
+[ERROR] 2023-06-28 14:25:42,789 c.e.wallet.service.RegisterService [http-nio-8080-exec-7] User not added, because email miroslav.vetrov2003@icloud.com exists
+[ERROR] 2023-06-28 14:27:05,028 c.e.wallet.service.RegisterService [http-nio-8080-exec-3] User not added, because user test already exists
+[ERROR] 2023-06-28 14:27:31,925 c.e.wallet.service.RegisterService [http-nio-8080-exec-7] User not added, because email miroslav.vetrov2003@icloud.com exists
+[ERROR] 2023-06-28 14:29:34,497 c.e.w.controller.LoginController [http-nio-8080-exec-9] Invalid username and password!
+[ERROR] 2023-06-28 15:00:38,337 c.e.w.controller.LoginController [http-nio-8080-exec-6] Invalid username and password!
+[ERROR] 2023-06-28 15:00:43,619 c.e.w.controller.LoginController [http-nio-8080-exec-9] Invalid username and password!
+[ERROR] 2023-06-28 15:00:48,489 c.e.w.controller.LoginController [http-nio-8080-exec-2] Invalid username and password!
+[ERROR] 2023-06-28 15:06:22,744 c.e.w.controller.LoginController [http-nio-8080-exec-7] Invalid username and password!
+[ERROR] 2023-06-28 15:06:26,958 c.e.w.controller.LoginController [http-nio-8080-exec-10] Invalid username and password!
+[ERROR] 2023-06-28 16:02:47,711 c.e.wallet.service.RegisterService [main] User not added, because user username already exists
+[ERROR] 2023-06-28 16:03:09,036 c.e.wallet.service.RegisterService [main] User not added, because user username already exists
+[ERROR] 2023-06-28 16:04:12,505 c.e.wallet.service.RegisterService [main] User not added, because user username already exists

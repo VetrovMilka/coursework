@@ -1,0 +1,256 @@
+[ INFO] 2023-06-25 20:56:28,096 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 9779 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-25 20:56:28,096 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-25 20:57:13,323 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 9813 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-25 20:57:13,324 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-25 20:57:14,800 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-25 20:57:14,997 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-25 20:57:15,003 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-25 20:57:15,121 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 1.926 seconds (JVM running for 2.257)
+[ INFO] 2023-06-25 20:57:22,118 c.e.w.c.DashboardController [http-nio-8080-exec-1] Call for dashboard page by user id 1
+[ INFO] 2023-06-25 20:57:28,290 c.e.w.c.DashboardController [http-nio-8080-exec-6] Call for dashboard page by user id 1
+[ INFO] 2023-06-25 20:57:32,476 c.e.w.controller.UserController [http-nio-8080-exec-5] Call for users list page
+[ INFO] 2023-06-25 20:57:33,094 c.e.w.c.DashboardController [http-nio-8080-exec-3] Call for dashboard page by user id 1
+[ INFO] 2023-06-25 20:57:34,139 c.e.w.controller.UserController [http-nio-8080-exec-8] Call for users list page
+[ INFO] 2023-06-25 20:57:37,078 c.e.w.c.DashboardController [http-nio-8080-exec-10] Call for dashboard page by user id 1
+[ INFO] 2023-06-25 20:57:37,767 c.e.w.controller.UserController [http-nio-8080-exec-10] Call for users list page
+[ INFO] 2023-06-25 20:57:42,610 c.e.w.controller.ProfileController [http-nio-8080-exec-7] Call for profile info page by user id 1
+[ INFO] 2023-06-25 20:57:58,230 c.e.w.c.DashboardController [http-nio-8080-exec-3] Call for dashboard page by user id 1
+[ INFO] 2023-06-27 15:30:16,703 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 13733 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-27 15:30:16,703 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-27 15:30:18,354 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-27 15:30:18,543 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-27 15:30:18,550 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-27 15:30:18,686 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.149 seconds (JVM running for 2.607)
+[ INFO] 2023-06-27 15:30:32,751 c.e.w.c.DashboardController [http-nio-8080-exec-5] Call for dashboard page by user id 1
+[ INFO] 2023-06-27 17:16:11,074 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 16983 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-27 17:16:11,075 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-27 17:17:07,022 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 17003 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-27 17:17:07,023 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-27 17:17:08,653 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-27 17:18:51,181 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 17073 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-27 17:18:51,183 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-27 17:18:52,633 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-27 17:18:52,829 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-27 17:18:52,835 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-27 17:18:52,935 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 1.871 seconds (JVM running for 2.628)
+[ INFO] 2023-06-27 17:19:12,539 c.e.w.c.DashboardController [http-nio-8080-exec-5] Call for dashboard page by user id 1
+[ INFO] 2023-06-27 17:19:16,181 c.e.w.controller.UserController [http-nio-8080-exec-7] Call for users list page
+[ INFO] 2023-06-28 13:03:44,534 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 20607 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 13:03:44,536 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 13:03:46,148 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 13:03:46,353 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 13:03:46,359 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 13:03:46,454 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.066 seconds (JVM running for 2.758)
+[ INFO] 2023-06-28 13:04:45,883 c.e.w.controller.UserController [http-nio-8080-exec-2] Call for users list page
+[ INFO] 2023-06-28 13:09:03,309 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 20781 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 13:09:03,310 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 13:09:04,967 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 13:09:05,162 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 13:09:05,169 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 13:09:05,306 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.154 seconds (JVM running for 2.815)
+[ INFO] 2023-06-28 13:10:12,529 c.e.w.c.DashboardController [http-nio-8080-exec-7] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 13:10:16,458 c.e.w.service.TransactionService [http-nio-8080-exec-9] Transaction with id: 1 was added
+[ INFO] 2023-06-28 13:10:16,466 c.e.w.c.DashboardController [http-nio-8080-exec-1] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 13:10:17,742 c.e.w.c.TransactionController [http-nio-8080-exec-2] Call for transaction with id: 1 edit page
+[ INFO] 2023-06-28 13:10:19,266 c.e.w.c.TransactionController [http-nio-8080-exec-4] Saved transaction with id: 1
+[ INFO] 2023-06-28 13:10:19,277 c.e.w.c.DashboardController [http-nio-8080-exec-5] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 13:13:40,300 c.e.w.c.DashboardController [http-nio-8080-exec-10] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 13:13:42,154 c.e.w.c.TransactionController [http-nio-8080-exec-10] Call for transaction with id: 1 edit page
+[ INFO] 2023-06-28 13:14:07,472 c.e.w.c.TransactionController [http-nio-8080-exec-6] Saved transaction with id: 1
+[ INFO] 2023-06-28 13:14:07,489 c.e.w.c.DashboardController [http-nio-8080-exec-7] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:07:10,386 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3376 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:07:10,387 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:07:39,419 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3387 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:07:39,420 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:07:41,039 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:07:41,236 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:07:41,242 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:07:41,351 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.071 seconds (JVM running for 2.433)
+[ INFO] 2023-06-28 14:08:18,623 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3419 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:08:18,624 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:08:20,033 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:08:20,226 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:08:20,235 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:08:20,339 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 1.856 seconds (JVM running for 2.179)
+[ INFO] 2023-06-28 14:08:34,261 c.e.w.controller.UserController [http-nio-8080-exec-7] Call for users list page
+[ INFO] 2023-06-28 14:08:38,352 c.e.w.controller.UserController [http-nio-8080-exec-4] Call for users list page
+[ INFO] 2023-06-28 14:14:32,270 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3697 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:14:32,271 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:15:26,733 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3756 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:15:26,734 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:15:28,305 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:15:28,554 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:15:28,561 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:15:28,662 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.057 seconds (JVM running for 2.498)
+[ INFO] 2023-06-28 14:15:44,447 c.e.w.c.DashboardController [http-nio-8080-exec-8] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:16:31,926 c.e.w.service.TransactionService [http-nio-8080-exec-10] Transaction with id: 11 was added
+[ INFO] 2023-06-28 14:16:31,937 c.e.w.c.DashboardController [http-nio-8080-exec-1] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:17:24,150 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3795 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:17:24,151 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:18:54,736 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 3826 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:18:54,738 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:18:56,300 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:18:56,487 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:18:56,493 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:18:56,589 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 1.985 seconds (JVM running for 2.322)
+[ INFO] 2023-06-28 14:19:11,381 c.e.w.c.DashboardController [http-nio-8080-exec-7] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:19:20,150 c.e.w.controller.UserController [http-nio-8080-exec-9] Call for users list page
+[ INFO] 2023-06-28 14:19:22,974 c.e.w.controller.ProfileController [http-nio-8080-exec-3] Call for profile info page by user id 1
+[ INFO] 2023-06-28 14:19:30,506 c.e.w.controller.ProfileController [http-nio-8080-exec-5] Profile with email: admin@admin.admin has been updated
+[ INFO] 2023-06-28 14:19:30,506 c.e.w.controller.ProfileController [http-nio-8080-exec-5] Profile with email: admin@admin.admin has been updated
+[ INFO] 2023-06-28 14:19:30,512 c.e.w.controller.ProfileController [http-nio-8080-exec-6] Call for profile info page by user id 1
+[ INFO] 2023-06-28 14:19:39,449 c.e.w.controller.UserController [http-nio-8080-exec-10] Call for users list page
+[ INFO] 2023-06-28 14:19:40,032 c.e.w.c.DashboardController [http-nio-8080-exec-2] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:19:40,667 c.e.w.controller.UserController [http-nio-8080-exec-4] Call for users list page
+[ INFO] 2023-06-28 14:19:53,206 c.e.w.c.DashboardController [http-nio-8080-exec-5] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:19:56,644 c.e.w.controller.RegisterController [http-nio-8080-exec-10] Call for register page
+[ INFO] 2023-06-28 14:20:26,935 c.endava.wallet.service.MailSender [http-nio-8080-exec-3] Email to: miroslav.vetrov2003@icloud.com was sent
+[ INFO] 2023-06-28 14:24:21,708 c.e.w.controller.RegisterController [http-nio-8080-exec-4] Account is now activated
+[ INFO] 2023-06-28 14:25:15,985 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4010 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:25:15,986 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:25:17,503 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:25:17,712 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:25:17,722 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:25:17,854 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.009 seconds (JVM running for 2.548)
+[ INFO] 2023-06-28 14:25:28,617 c.e.w.controller.RegisterController [http-nio-8080-exec-5] Call for register page
+[ INFO] 2023-06-28 14:26:07,726 c.endava.wallet.service.MailSender [http-nio-8080-exec-9] Email to: miroslav.vetrov2020@gmail.com was sent
+[ INFO] 2023-06-28 14:26:51,875 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4051 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:26:51,876 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:26:53,621 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:26:53,819 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:26:53,825 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:26:53,947 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.316 seconds (JVM running for 2.666)
+[ INFO] 2023-06-28 14:26:57,863 c.e.w.controller.RegisterController [http-nio-8080-exec-1] Call for register page
+[ INFO] 2023-06-28 14:27:26,726 c.e.w.controller.RegisterController [http-nio-8080-exec-5] Call for register page
+[ INFO] 2023-06-28 14:27:34,459 c.e.w.controller.RegisterController [http-nio-8080-exec-9] Call for register page
+[ INFO] 2023-06-28 14:27:53,747 c.endava.wallet.service.MailSender [http-nio-8080-exec-1] Email to: miroslav.vetrov2020@gmail.com was sent
+[ INFO] 2023-06-28 14:28:43,694 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4106 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:28:43,696 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:28:45,272 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 14:28:45,512 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 14:28:45,520 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 14:28:45,639 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.121 seconds (JVM running for 2.609)
+[ INFO] 2023-06-28 14:28:48,641 c.e.w.controller.RegisterController [http-nio-8080-exec-1] Call for register page
+[ INFO] 2023-06-28 14:28:55,968 c.endava.wallet.service.MailSender [http-nio-8080-exec-3] Email to: miroslav.vetrov2020@gmail.com was sent
+[ INFO] 2023-06-28 14:29:05,745 c.e.w.controller.RegisterController [http-nio-8080-exec-5] Account is now activated
+[ INFO] 2023-06-28 14:29:13,257 c.e.w.c.DashboardController [http-nio-8080-exec-10] Call for dashboard page by user id 5
+[ INFO] 2023-06-28 14:29:20,160 c.e.w.service.TransactionService [http-nio-8080-exec-2] Transaction with id: 8 was added
+[ INFO] 2023-06-28 14:29:20,176 c.e.w.c.DashboardController [http-nio-8080-exec-3] Call for dashboard page by user id 5
+[ INFO] 2023-06-28 14:29:22,334 c.e.w.controller.ProfileController [http-nio-8080-exec-5] Call for profile info page by user id 5
+[ INFO] 2023-06-28 14:29:26,416 c.e.w.c.DashboardController [http-nio-8080-exec-9] Call for dashboard page by user id 5
+[ INFO] 2023-06-28 14:29:28,298 c.e.w.controller.ProfileController [http-nio-8080-exec-1] Call for profile info page by user id 5
+[ INFO] 2023-06-28 14:29:29,039 c.e.w.c.DashboardController [http-nio-8080-exec-3] Call for dashboard page by user id 5
+[ INFO] 2023-06-28 14:29:42,599 c.e.w.controller.UserController [http-nio-8080-exec-7] Call for users list page
+[ INFO] 2023-06-28 14:29:43,196 c.e.w.c.DashboardController [http-nio-8080-exec-9] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:29:43,497 c.e.w.controller.UserController [http-nio-8080-exec-1] Call for users list page
+[ INFO] 2023-06-28 14:29:44,257 c.e.w.controller.UserController [http-nio-8080-exec-5] Call for users list page
+[ INFO] 2023-06-28 14:29:47,711 c.e.w.c.DashboardController [http-nio-8080-exec-7] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 14:32:50,753 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4325 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:32:50,754 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:34:34,016 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4398 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:34:34,017 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:38:11,478 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4619 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:38:11,480 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:39:22,873 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4707 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:39:22,875 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:39:43,136 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 4743 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:39:43,139 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:55:32,496 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 5259 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:55:32,497 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:56:19,754 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 5271 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:56:19,756 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 14:56:30,911 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 5279 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 14:56:30,912 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:00:20,120 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 5337 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 15:00:20,121 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:00:21,651 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 15:00:21,847 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 15:00:21,853 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 15:00:21,975 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 1.968 seconds (JVM running for 2.542)
+[ INFO] 2023-06-28 15:29:49,657 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 5960 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 15:29:49,659 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:30:58,751 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 6052 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 15:30:58,754 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:31:05,306 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 6059 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 15:31:05,308 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:31:17,807 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 6068 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 15:31:17,809 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:31:36,543 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 19.0.1 on MacBook-Miroslav.local with PID 6077 (/Users/vetrov/IdeaProjects/online-wallet/target/classes started by vetrov in /Users/vetrov/IdeaProjects/online-wallet)
+[ INFO] 2023-06-28 15:31:36,545 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 15:31:38,318 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 15:31:38,513 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 15:31:38,519 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 15:31:38,630 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.25 seconds (JVM running for 2.616)
+[ INFO] 2023-06-28 15:31:50,134 c.e.w.c.DashboardController [http-nio-8080-exec-7] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 15:31:57,213 c.e.w.service.TransactionService [http-nio-8080-exec-9] Transaction with id: 8 was added
+[ INFO] 2023-06-28 15:31:57,223 c.e.w.c.DashboardController [http-nio-8080-exec-10] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 15:31:59,669 c.e.w.service.TransactionService [http-nio-8080-exec-2] Transaction with id: 9 was added
+[ INFO] 2023-06-28 15:31:59,681 c.e.w.c.DashboardController [http-nio-8080-exec-3] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 15:32:00,976 c.e.w.controller.UserController [http-nio-8080-exec-5] Call for users list page
+[ INFO] 2023-06-28 15:32:07,501 c.e.w.controller.RegisterController [http-nio-8080-exec-5] Call for register page
+[ INFO] 2023-06-28 15:32:20,405 c.endava.wallet.service.MailSender [http-nio-8080-exec-7] Email to: miroslav.vetrov2020@gmail.com was sent
+[ INFO] 2023-06-28 15:32:28,488 c.e.w.controller.RegisterController [http-nio-8080-exec-9] Account is now activated
+[ INFO] 2023-06-28 15:32:36,118 c.e.w.c.DashboardController [http-nio-8080-exec-6] Call for dashboard page by user id 2
+[ INFO] 2023-06-28 15:32:38,645 c.e.w.service.TransactionService [http-nio-8080-exec-8] Transaction with id: 10 was added
+[ INFO] 2023-06-28 15:32:38,657 c.e.w.c.DashboardController [http-nio-8080-exec-9] Call for dashboard page by user id 2
+[ INFO] 2023-06-28 15:32:40,531 c.e.w.service.TransactionService [http-nio-8080-exec-1] Transaction with id: 11 was added
+[ INFO] 2023-06-28 15:32:40,546 c.e.w.c.DashboardController [http-nio-8080-exec-2] Call for dashboard page by user id 2
+[ INFO] 2023-06-28 15:32:42,254 c.e.w.controller.ProfileController [http-nio-8080-exec-4] Call for profile info page by user id 2
+[ INFO] 2023-06-28 15:32:49,490 c.e.w.c.DashboardController [http-nio-8080-exec-3] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 15:32:50,070 c.e.w.controller.UserController [http-nio-8080-exec-5] Call for users list page
+[ INFO] 2023-06-28 15:32:51,861 c.e.w.controller.UserController [http-nio-8080-exec-7] Call for user with id: 2 edit page
+[ INFO] 2023-06-28 15:32:53,587 c.e.w.controller.UserController [http-nio-8080-exec-9] Saved user with id: 2
+[ INFO] 2023-06-28 15:32:53,597 c.e.w.controller.UserController [http-nio-8080-exec-10] Call for users list page
+[ INFO] 2023-06-28 15:35:04,208 c.e.w.c.DashboardController [http-nio-8080-exec-4] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 15:35:35,072 c.e.w.service.TransactionService [http-nio-8080-exec-6] Transaction with id: 12 was added
+[ INFO] 2023-06-28 15:35:35,087 c.e.w.c.DashboardController [http-nio-8080-exec-7] Call for dashboard page by user id 1
+[ INFO] 2023-06-28 16:02:44,203 c.e.w.OnlineWalletApplicationTests [main] Starting OnlineWalletApplicationTests using Java 17.0.7 on MacBook-Miroslav.local with PID 7996 (started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:02:44,204 c.e.w.OnlineWalletApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:02:45,018 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:02:45,029 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:02:45,271 c.e.w.OnlineWalletApplicationTests [main] Started OnlineWalletApplicationTests in 1.243 seconds (JVM running for 1.727)
+[ INFO] 2023-06-28 16:02:45,397 c.e.w.service.RegisterServiceTest [main] Starting RegisterServiceTest using Java 17.0.7 on MacBook-Miroslav.local with PID 7996 (started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:02:45,397 c.e.w.service.RegisterServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:02:47,376 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 16:02:47,537 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:02:47,546 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:02:47,680 c.e.w.service.RegisterServiceTest [main] Started RegisterServiceTest in 2.293 seconds (JVM running for 4.136)
+[ INFO] 2023-06-28 16:03:06,230 c.e.w.OnlineWalletApplicationTests [main] Starting OnlineWalletApplicationTests using Java 17.0.7 on MacBook-Miroslav.local with PID 8072 (started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:03:06,231 c.e.w.OnlineWalletApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:03:07,068 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:03:07,079 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:03:07,323 c.e.w.OnlineWalletApplicationTests [main] Started OnlineWalletApplicationTests in 1.26 seconds (JVM running for 1.819)
+[ INFO] 2023-06-28 16:03:07,463 c.e.w.service.RegisterServiceTest [main] Starting RegisterServiceTest using Java 17.0.7 on MacBook-Miroslav.local with PID 8072 (started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:03:07,463 c.e.w.service.RegisterServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:03:08,676 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 16:03:08,857 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:03:08,869 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:03:09,012 c.e.w.service.RegisterServiceTest [main] Started RegisterServiceTest in 1.56 seconds (JVM running for 3.508)
+[ INFO] 2023-06-28 16:03:42,515 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 17.0.7 on MacBook-Miroslav.local with PID 8116 (/Users/vetrov/IdeaProjects/coursework/target/classes started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:03:42,517 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:03:44,140 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 16:03:44,340 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:03:44,348 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:04:09,597 c.e.w.OnlineWalletApplicationTests [main] Starting OnlineWalletApplicationTests using Java 17.0.7 on MacBook-Miroslav.local with PID 8188 (started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:04:09,598 c.e.w.OnlineWalletApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:04:10,381 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:04:10,393 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:04:10,632 c.e.w.OnlineWalletApplicationTests [main] Started OnlineWalletApplicationTests in 1.201 seconds (JVM running for 1.683)
+[ INFO] 2023-06-28 16:04:10,767 c.e.w.service.RegisterServiceTest [main] Starting RegisterServiceTest using Java 17.0.7 on MacBook-Miroslav.local with PID 8188 (started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:04:10,767 c.e.w.service.RegisterServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:04:12,139 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 16:04:12,340 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:04:12,350 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:04:12,482 c.e.w.service.RegisterServiceTest [main] Started RegisterServiceTest in 1.727 seconds (JVM running for 3.533)
+[ INFO] 2023-06-28 16:04:29,137 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 17.0.7 on MacBook-Miroslav.local with PID 8241 (/Users/vetrov/IdeaProjects/coursework/target/classes started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:04:29,140 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:04:30,771 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 16:04:31,204 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:04:31,231 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:04:31,510 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.886 seconds (JVM running for 3.474)
+[ INFO] 2023-06-28 16:04:33,467 c.e.wallet.OnlineWalletApplication [main] Starting OnlineWalletApplication using Java 17.0.7 on MacBook-Miroslav.local with PID 8255 (/Users/vetrov/IdeaProjects/coursework/target/classes started by vetrov in /Users/vetrov/IdeaProjects/coursework)
+[ INFO] 2023-06-28 16:04:33,468 c.e.wallet.OnlineWalletApplication [main] No active profile set, falling back to 1 default profile: "default"
+[ INFO] 2023-06-28 16:04:35,173 config.com.vetrov.wallet.MailConfig [main] MailSender configured
+[ INFO] 2023-06-28 16:04:35,495 config.com.vetrov.wallet.MvcConfig [main] Added /login view into ViewControllerRegistry
+[ INFO] 2023-06-28 16:04:35,503 config.com.vetrov.wallet.MvcConfig [main] Added /static/** resources into ResourceHandlerRegistry
+[ INFO] 2023-06-28 16:04:35,614 c.e.wallet.OnlineWalletApplication [main] Started OnlineWalletApplication in 2.45 seconds (JVM running for 3.28)
